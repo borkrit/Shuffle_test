@@ -30,7 +30,7 @@ p {
 
 .text-up {
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .title {
@@ -98,10 +98,11 @@ p {
 .item h3 {
     margin-top: 10px;
     color: rgba(42, 53, 123, 1);
-    font-size: 23px;
+    font-size: 20px;
     line-height: 35px;
 }
 .item p{
+    font-size: 14px;
     margin-top: 10px;
     line-height: 23px;
 }
